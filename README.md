@@ -4,9 +4,9 @@
 
 - [📋 Sobre](#Sobre)
 - [🕹 Tecnologias](#Tecnologias)
-- [🧑🏽‍💻 Iniciando o projeto](#Iniciando)
+- [💻 Iniciando o projeto](#Iniciando)
 - [📝 Licença](#Licença)
-- [🦸 Contatos](#Contatos)
+- [📧 Contatos](#Contatos)
 
 <hr>
 
@@ -55,7 +55,7 @@
 1. Clonar o repositório:
 
    ```sh
-   git clone https://github.com/CodeGirls-LuizaCode/backend.git
+   git clone https://github.com/LaomaNogueira/omni-channel-luizacode-backend.git
    ```
 
 2. Instalar os pacotes:
@@ -68,10 +68,8 @@
 
 1 - Para usar e testar a API, você precisa importar o arquivo db.sql da pasta ./db_postgres no Postgres.
 
-2 - Alterar no arquivo ./config/database.js seu usuário e senha do banco de dados: <br /><br />
-<img src='./images/readme_01.png'>
 
-
+2 - Copie o arquivo .env.example, renomeie para .env e preencha as variáveis.
 
 
 3 - Subir o servidor:
@@ -114,7 +112,7 @@ Com a API em funcionamento, vamos rodar os testes que foram pedidos para o desaf
 
 **__Heroku__**: 
 
-[Code Girls](https://code-girls.herokuapp.com/docs/)
+[Omni Channel - Code Girls](https://omni-channel-luizacode.herokuapp.com/docs/)
 
 <!-- CONTACT -->
 
@@ -122,10 +120,10 @@ Com a API em funcionamento, vamos rodar os testes que foram pedidos para o desaf
 
 Célia Lopes - [Linkedin](https://www.linkedin.com/in/c%C3%A9lia-lopes-de-oliveira-49321678/) - oliveira.lopes.celia@gmail.com \
 Islene Gomes - [Linkedin](https://www.linkedin.com/in/islene-dos-santos-gomes-fernandes-76899645/) - islenegomes@gmail.com \
-Laoma Nogueira - [Linkedin](https://www.linkedin.com/in/laoma-nogueira/) - laomanogueira@gmail.com \
+**Laoma Nogueira - [Linkedin](https://www.linkedin.com/in/laoma-nogueira/) - laomanogueira@gmail.com** \
 Milena Maganin - [Linkedin](https://www.linkedin.com/in/milenamaganin/) - mimaganin@gmail.com \
 Sabrynna Lourenço - [Linkedin](https://www.linkedin.com/in/sabrynna-lourenco/) - limasabrynna03@gmail.com \
 Thaís Minas - [Linkedin](https://www.linkedin.com/in/thaisminas/) - thais.2929@gmail.com
 
-Link do projeto: [https://github.com/CodeGirls-LuizaCode/backend](https://github.com/CodeGirls-LuizaCode/backend)
+Link do projeto: [https://github.com/LaomaNogueira/omni-channel-luizacode-backend](https://github.com/LaomaNogueira/omni-channel-luizacode-backend)
 
